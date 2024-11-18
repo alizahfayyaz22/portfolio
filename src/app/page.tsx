@@ -94,7 +94,7 @@ style={{"--value":"88" }as any}></div>
     </div>
     <div className="box2">
     <h1 className="heading"><u>Projects and Experience:</u></h1>
-    <p >"From building navigation bars to creating profile layouts, I’ve been honing my web development skills one project at a time. As a beginner, I focus on mastering the fundamentals </p>
+    <p >"From building navigation bars to creating profile layouts, I have been honing my web development skills one project at a time. As a beginner, I focus on mastering the fundamentals </p>
     </div>
       <div className="box3">
       <h1 className="heading"><u> Work Ethic and Goals:</u></h1> 
